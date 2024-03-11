@@ -6,3 +6,4 @@
 **Where to find me**
 
 - [E-Mail](mailto:cbug404@163.com)
+- [公众号](./assets/gzh.jpg)
